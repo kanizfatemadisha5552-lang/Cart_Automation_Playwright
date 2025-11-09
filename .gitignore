@@ -12,7 +12,6 @@ yarn-error.log*
 pnpm-lock.yaml
 
 # Playwright reports & results
-playwright-report/
 test-results/
 blob-report/
 
